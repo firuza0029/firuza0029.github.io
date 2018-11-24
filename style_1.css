@@ -1,0 +1,32 @@
+body
+ {
+background-color:#241633;
+ }
+ h1
+ {
+ 	text-align: center;
+    color:#d6c9e2;
+    margin-left: 100px;
+    font-family: Broadway;
+ }
+ p
+ {
+   text-align: left;
+    color:#d6c9e2;
+    margin-left: 70px;
+    font-family: Broadway;
+ }
+h2
+{
+	text-align: left;
+    color:#d6c9e2;
+    margin-left: 70px;
+    font-family: Broadway;
+}
+h3
+{
+    text-align: left;
+    color:#ffffff;
+    margin-left: 85px;
+    font-family: Broadway;
+}
